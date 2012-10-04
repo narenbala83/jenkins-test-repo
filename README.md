@@ -1,4 +1,4 @@
 jenkins-test-repo
 =================
 
-Repository created for testing jenkins CI
+Repository created for testing jenkins CI. Hook created.
